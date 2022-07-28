@@ -1,0 +1,5 @@
+@media only screen and (max-width: 676px) {
+    .register-btn {
+    display: none;
+    }
+}
